@@ -1,0 +1,35 @@
+
+.navbar  a {
+    font-size: 12.2px;
+}
+.h1-style{
+    font-size: 56px;
+    line-height: 1.07143;
+    font-weight: 600;
+    letter-spacing: -.005em;
+    
+}
+.h2-style{
+    font-size: 30px;
+    font-family: "SF Pro Display","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif; 
+}
+.h2-font{
+    font-size: 21px;
+    line-height: 1.19048;
+    font-weight: 600;
+    letter-spacing: .011em;
+    font-family: "SF Pro Display","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+}
+.text-center a{
+text-decoration: none;
+}
+
+.bottom{
+    margin-top: 50vh;
+}
+hr.styleline{
+	border-top: 1px solid #8c8b8b;
+}
+.footer-background{
+    background-color: #dfdfe47e;
+}
